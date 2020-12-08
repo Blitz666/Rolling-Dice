@@ -1,0 +1,125 @@
+body {
+  background-color: #aeb8fe;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.display {
+  margin-top: 100px;
+  font-size: 4em;
+  font-family: 'Mountains of Christmas', cursive;
+  font-weight: 400;
+}
+
+#result {
+  font-weight: 700;
+}
+
+.dice {
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: #efe5dc;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.btn {
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  padding: 10px 15px;
+  border-radius: 10px;
+  opacity: 0.6;
+  font-size: 2em;
+  font-family: 'Mountains of Christmas', cursive;
+  font-weight: 400;
+}
+
+.btn:hover {
+  box-shadow: 0px 0px 15px 5px rgba(255, 0, 0, 0.75);
+  opacity: 1;
+  font-size: 2.5em;
+}
+
+.dot0 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  background-color: black;
+  margin: 6.6px;
+}
+
+.dot1 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  background-color: black;
+  margin: 6.6px;
+}
+
+.dot2 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  background-color: black;
+  margin: 6.6px;
+}
+
+.dot3 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  background-color: black;
+  margin: 6.6px;
+}
+
+.dot4 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  background-color: black;
+  margin: 6.6px;
+}
+
+.dot5 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  background-color: black;
+  margin: 6.6px;
+}
+
+.dot6 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  background-color: black;
+  margin: 6.6px;
+}
+
+.dot7 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  background-color: black;
+  margin: 6.6px;
+}
+
+.dot8 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  background-color: black;
+  margin: 6.6px;
+}
